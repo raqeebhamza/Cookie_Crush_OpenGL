@@ -1,2 +1,2 @@
 # Cookie_Crush_OpenGL
-C++ graphical games by using graphical libraries like openGL, glut and glew. This game is like candy crush game.
+C++ graphical games by using graphical libraries like openGL, glut and glew. This game is like candy crush game.                            ---Linux----- If you are using the Linux OS like Ubuntu you have to install the opengl libraries like glut and glew to run this game.      ---windows--- And If you are window's user then you have to install the Opengl libraries glut, glew on visual studio to run this game.             
